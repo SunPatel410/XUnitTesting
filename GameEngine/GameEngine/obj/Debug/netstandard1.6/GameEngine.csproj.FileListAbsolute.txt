@@ -1,0 +1,10 @@
+C:\Users\C09950A\Documents\Visual Studio 2017\Projects\GameEngine\GameEngine\bin\Debug\netstandard1.6\GameEngine.deps.json
+C:\Users\C09950A\Documents\Visual Studio 2017\Projects\GameEngine\GameEngine\bin\Debug\netstandard1.6\GameEngine.dll
+C:\Users\C09950A\Documents\Visual Studio 2017\Projects\GameEngine\GameEngine\bin\Debug\netstandard1.6\GameEngine.pdb
+C:\Users\C09950A\Documents\Visual Studio 2017\Projects\GameEngine\GameEngine\obj\Debug\netstandard1.6\GameEngine.csprojResolveAssemblyReference.cache
+C:\Users\C09950A\Documents\Visual Studio 2017\Projects\GameEngine\GameEngine\obj\Debug\netstandard1.6\GameEngine.csproj.CoreCompileInputs.cache
+C:\Users\C09950A\Documents\Visual Studio 2017\Projects\GameEngine\GameEngine\obj\Debug\netstandard1.6\GameEngine.AssemblyInfo.cs
+C:\Users\C09950A\Documents\Visual Studio 2017\Projects\GameEngine\GameEngine\obj\Debug\netstandard1.6\GameEngine.dll
+C:\Users\C09950A\Documents\Visual Studio 2017\Projects\GameEngine\GameEngine\obj\Debug\netstandard1.6\GameEngine.pdb
+C:\Users\C09950A\Documents\Visual Studio 2017\Projects\GameEngine\GameEngine\bin\Debug\netstandard1.6\System.Threading.Thread.dll
+C:\Users\C09950A\Documents\Visual Studio 2017\Projects\GameEngine\GameEngine\bin\Debug\netstandard1.6\System.Threading.Thread.xml
